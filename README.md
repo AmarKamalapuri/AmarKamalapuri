@@ -9,26 +9,26 @@
   <img align="left" alt="Amar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<br />
-- 👋 Hi, I’m @AmarKamalapuri
-- 📫 Reach me at sidkamalapuri@gmail.com
-- You can View my Portfolio at https://amarkamalapuri.github.io
+<br>
+- 👋 Hi, I’m @AmarKamalapuri<br>
+- 📫 Reach me at sidkamalapuri@gmail.com<br>
+- You can view my Portfolio at https://amarkamalapuri.github.io
 
 ### Glad to see you here! 🤩 &nbsp;
-I am a third-year student pursuing a Bachelors's in Computer Science and Engineering🎓 from National Institute Of Technology, Silchar 🏛. I am a keen learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to do competitive Programming 💻. I'm currently into Machine Learning 🕸️ and working on my Development Skills 🤓.
+I am a third-year student pursuing Bachelors in Computer Science and Engineering🎓 from National Institute Of Technology, Silchar 🏛. I am a keen learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to do competitive Programming 💻. I'm currently into Machine Learning 🕸️ and working on my Development Skills 🤓.
 
 <br />
-
 ### Know more about me:
 
 - 🔭 I’m currently exploring AI 🚀.
 - 🌱 I’m currently learning ML and learning about different algorithms 🛠.
-- 💬 Ask me about anything, I would be glad to help (if I could ✨).
+- 💬 Ask me about anything, I would be glad to help..
 
+**Visitors Count**  
+
+![VisitorCount](https://profile-counter.glitch.me/{AmarKamalapuri}/count.svg)
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AmarKamalapuri&show_icons=true" /></p>
 
-**Visitors Count**  
-![VisitorCount](https://profile-counter.glitch.me/{AmarKamalapuri}/count.svg)
 
 ![My github activity graph](https://activity-graph.herokuapp.com/graph?username=AmarKamalapuri&theme=dracula&custom_title=My%20Commits%20Graph%20&hide_border=true)
