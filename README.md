@@ -15,7 +15,7 @@
 - You can view my Portfolio at https://amarkamalapuri.github.io
 
 ### Glad to see you here! 🤩 &nbsp;
-I am a third-year student pursuing Bachelors in Computer Science and Engineering🎓 from National Institute Of Technology, Silchar 🏛. I am a keen learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to do competitive Programming 💻. I'm currently into Machine Learning 🕸️ and working on my Development Skills 🤓.
+I am a final-year student pursuing Bachelors in Computer Science and Engineering🎓 from National Institute Of Technology, Silchar 🏛. I am a keen learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to do competitive Programming 💻. I'm currently into Machine Learning 🕸️ and working on my Development Skills 🤓.
 
 <br />
 ### Know more about me:
